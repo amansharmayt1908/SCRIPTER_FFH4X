@@ -1,0 +1,33 @@
+.full_page{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 40vw;
+
+}
+
+.img2{
+    height: 30vw;
+    width: 20vw;
+    object-fit: cover;
+    border-radius: 5px;
+}
+.steps{
+    height: 25vw;
+    width: 30vw;
+    background-color: black;
+    color: white;
+    font-size: 2rem;
+}
+li{
+    padding: 1vw;
+}
+.c{
+    color: aqua;
+}
+.img , img{
+    height: 3vw;
+    width: 3vw;
+    object-fit: cover;
+    margin-left: 7vw;
+}
